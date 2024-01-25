@@ -1,5 +1,10 @@
 # Comparador de Notas SISU
-
+#### Requisitos
+requests
+pode ser instalado com o pip
+```bash
+pip install requests
+```
 #### Como Usar
 ##### Primeiros Passos (conseguir os links do curso)
 execute o script e quando ele solicitar o codigo do curso abra o arquivo categories.json que foi gerado onde o script foi executado
